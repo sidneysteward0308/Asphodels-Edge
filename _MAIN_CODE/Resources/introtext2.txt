@@ -1,0 +1,33 @@
+??? "\"Oh? You're finally awake?\""
+
+narrator "You hear the sound of a pen rhythmically scratching across the surface of a page, then the sharp clattering of plastic against the floor a few feet away. Did they just throw their clipboard on the ground? You're still a bit frazzled from being pulled out of the abyss, and cant quite piece together what you're seeing."
+
+??? "\"Come on sit up, let me get a look at you.\""
+
+narrator "Still extremely confused, you comply with only slight hesitation. You feel cold fingers touch your forehead and neck, before traveling along your arm and raising it up and down."
+
+??? "\"Mhm. Ok. Yep. Definitely dead.\""
+
+narrator "Wait... huh?"
+
+narrator "This is usually where the character sprite would show up in detail, but the game developer had a time crunch to make. There's only a silhouette for now."
+
+narrator "\"Who are you? Where am I?\""
+
+narrator "The voice, which you can now pair to the imposing woman standing before you, seems to scoff in response."
+
+Strange Woman "\"Welcome to the Spirits Logistics And Investigations Network, Eastern Division Detective Agency. You'll be referred to by number '137', and if you impress me enough, we can talk about changing that.\""
+
+137 "\"Hold on-\""
+
+Strange Woman "\"I left a change of clothes over there as well as the files for your first case. You'll head out for the town tomorrow at sunrise to conduct a preliminary investigation.\""
+
+137 "\"Just wait a second-\""
+
+narrator "She pauses her monotone speech and lets out an impatient sigh, seemingly incredibly unimpressed by your continuous interruptions. You've only known this woman for a few minutes, but you can tell she's delivered this speech countless times before and is ready to wrap things up and leave. She takes a long drag out of her cigarette - where did she even get that - and speaks."
+
+Strange Woman "\"You're dead. Welcome to the afterlife. Or atleast, where your spirit managed to end up.\""
+
+narrator "She motions for you to stand."
+
+Strange Woman "\"Go ahead and look in the mirror if you don't believe me. Put on that change of clothes while you're at it.\""

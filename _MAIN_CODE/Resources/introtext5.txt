@@ -1,0 +1,11 @@
+narrator "And with that, you follow her to your room"
+
+narrator "You collapse onto the bed, exhausted."
+
+narrator "To say you dreamed of anything would be a stretch. All you saw in your sleep were faint lights and colors, disembodied voices who felt familiar and strange all the same, speaking words you couldn't understand."
+
+narrator "In the morning you wake, the attendant at your door. As promised, she leads you to a humble dock and takes you up the river."
+
+narrator "In a few hours you finally arrive at your destination, a small harbor still clouded in the morning fog."
+
+narrator "Welcome to Asphodel's Edge."

@@ -1,0 +1,7 @@
+narrator "The attendant leaves you at the harbor's docks, with nothing but a notebook to your name."
+
+narrator "Sighing in resignation, you decide to go ahead and get on with it."
+
+narrator "The docks are all but completely empty, a few boats rocking in the waves, straining against the ropes they're tied up with. You wander around for a while aimlessly. Who were you supposed to be meeting again?"
+
+??? "\"Hello there friend.\""

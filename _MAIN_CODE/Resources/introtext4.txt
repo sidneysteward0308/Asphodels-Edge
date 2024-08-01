@@ -1,0 +1,35 @@
+narrator "..."
+
+narrator "Well... there you are."
+
+narrator "You in all your... grey... semi-transparent... glory."
+
+narrator "You don't remember what your eyes used to look like, but you don't think they were ever this yellow... or this luminescent."
+
+Strange Woman "\"Welcome to purgatory, kid. Seems like you had some unfinished business in your past life.\""
+
+Strange Woman "\"I take it you don't remember much. That's normal as far as us ghosts go.\""
+
+narrator "Ghost... that's what you were now, huh."
+
+Strange Woman "\"The Agency here helps us find a purpose. A way to still get around in life. Trust me, you don't want to be out wandering those streets without any foundation, with no memories to your name. Or, well, 'identification code' now.\""
+
+Strange Woman "\"Who knows...\""
+
+narrator "She takes another drag of her cigarette, before dropping it onto the floor and crushing it with her boot."
+
+Strange Woman "\"Maybe one day you'll be able to work on your own case, or one related to it. Normally those of us who end up here didn't die in the... well.\""
+
+narrator "She nods to the stitches on your neck."
+
+Strange Woman "\"The cleanest of ways.\""
+
+Strange Woman "\"...\""
+
+Strange Woman "\"Anyways, go ahead and take a look at that journal of yours when you get the chance, if you haven't already. You can use it to keep track of any developments on the case.\""
+
+Strange Woman "\"And if you run into any trouble, feel free to send a telegram. The Network's contact information is on the back. Just let them know it's for Ms. Red.\""
+
+narrator "You nod in response, not quite sure of what else to say."
+
+Ms. Red "\"Well, follow me to the guest rooms. You must be tired, and you have a long day tomorrow. One of my assistants will take you up the coast to Asphodel in the morning, we have a contact there at the docks you can get some more information from.\""

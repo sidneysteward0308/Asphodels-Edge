@@ -1,0 +1,2 @@
+enter 137 "How is everyone doing today?"
+Madame Red "Fine.{wa 0.5} Couldn't be better."

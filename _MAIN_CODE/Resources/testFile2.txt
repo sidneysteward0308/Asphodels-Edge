@@ -1,0 +1,5 @@
+narrator "this is a test of the demo."
+
+Name "here's a dialogue change."
+
+narrator "now we will have a scene change."

@@ -1,0 +1,7 @@
+Natasha "Hello, I'm Natasha, an underworld doctor." list(items -f long), playSong("intro Song" -v 1)
+
+setScene("Classroom" -s 5.5)
+
+Trailblazer "Hello \"Natasha!\""
+
+narrator "And this is a test of the text file." PlaySong(End, -p 0.5), list(players), saveGame(1 -g all -f simple)

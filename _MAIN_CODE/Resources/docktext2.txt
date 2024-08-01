@@ -1,0 +1,27 @@
+narrator "Startled, you turn to see a figure standing behind you. How light on their feet they must, be for you to have not heard their approach.
+
+??? "\"You're the unlucky soul from the agency, I take it?\""
+
+narrator "You nod."
+
+??? "\"Wonderful.\" The stranger smiles, showing rows of dagger-like teeth. It's a little off-putting if you're being honest."
+
+??? "\"I'm Scylla, the Madame said she'd be sending someone over soon.\""
+
+narrator "You have a feeling you should probably be writing this down. Try opening your journal and flipping to a new page."
+
+narrator "They lean in for a handshake. Their skin is cold to the touch, and those were definitely scales you just felt. They then nod to the docks behind you."
+
+Scylla "\"This is where we found the body, actually. floating down the river here. I dragged it up out of the water while out fishing.\""
+
+Scylla "\"I called the Sheriff over and they took it up to the office for an autopsy. I can give you the directions there if you'd like.\""
+
+137 "\"That would be great, thank you.\""
+
+narrator "They hand you a map with some locations marked down on it."
+
+Scylla "\"The Aphelion Residence is on there as well. Columba Aphelion, sister of the late Corvus, should either be there or at the Tavern.\""
+
+Scylla "\"You're welcome to come back here at any time as well, of course.\""
+
+narrator "They wave you farewell, and you continue on your way, looking down at the map. Looks like you have a long road ahead of you."
